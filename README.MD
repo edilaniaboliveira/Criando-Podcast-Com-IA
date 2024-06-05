@@ -48,4 +48,4 @@ Openart：
 
 - Imagem gerada em `assets`
 - Postcast em `outputs`
-- Prompsts e Ferramentas `criationby`
+- Prompsts e Ferramentas `creationby`
