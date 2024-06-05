@@ -4,7 +4,7 @@
 
  >⚠️**NOTE:** Este é o repositório desenvolvido para o desafio de conclusão do curso Criando um Podcast com IAs Generativas disponibilizado pela plataforma  [DIO](https://dio.me) em parceria com Santander
 
-Projeto com o objetivo criar um Podcast usando as facilidades das ferramentas de IA. Todos os prompts ustilizados na contrução desse projeto seguem abaixo.
+Projeto com o objetivo criar um Podcast usando as facilidades das ferramentas de IA. Todos os prompts utilizados na contrução desse projeto seguem abaixo.
 
 
 ## 👩‍💻 Tecnologias utilizadas no projeto
