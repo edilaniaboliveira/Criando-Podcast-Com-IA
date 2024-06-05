@@ -1,0 +1,26 @@
+# Episódio de Podcast
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em em extração, tranformação e carregamento de dados cujo o nome é " Baião Tech: Dados em Harmonia" e tem foco analise da dados,  com o público alvo de iniciantes
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CONTEÚDO]
+[PONTE ]
+[CURIOSIDADE]
+[ENCERRAMENTO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'Felipe deschamps', porém se fossem escritas Braulio Bessa
+- no bloco [CONTEÚDO] substitua por uma analogia sobre o que significa ELT e sua importância
+- no bloco [PONTE] Fale sobre a ferramenta mais  utilizadas para tratar dados
+- no bloco [CURIOSIDADE] Traga a diferença de performance ao usar dados tratado ou não para geranção de insumos
+- no bloco [ENCERRAMENTO] substitua por uma despedida divertida.
+- Use termos de fácil entendimento
+- O podcast vai ser apresentado somente por uma pessoa, chamada Gonzagão
+
+{REGRAS NEGATIVAS}
+
+- Não use termos técnicos
+- Não ultrapasse 10 minutos de duração
+- Não use girias

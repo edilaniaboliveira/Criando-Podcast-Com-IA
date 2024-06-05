@@ -1,0 +1,18 @@
+# Nome do podcast
+
+---
+
+Vocé é um roteirista de podcast e vamos criar um podcast de tecnologia focando em extração, tranformação e carregamento de dados. Fornceça 5 sugestões de nomes criativos para um podcast criado por nordestino entusiata de dados.
+
+Neste podcast iremos falar sobre como os dados bem trabalhados podem gerer insumos valiosos para o mundo corporativo.
+
+{REGRAS}
+
+- O título deve conter no máximo 3 palavras
+- Inclua subtítulos
+- O título deve ser simples e fácil de lembrar
+- Traga referencias a vida e obra de Luiz Gonzada
+
+{REGRAS NEGATIVAS}
+
+- Não use girias nordestinas
